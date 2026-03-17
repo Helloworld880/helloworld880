@@ -4,16 +4,16 @@ Hi 👋 I'm Yash Dudhani<br>🎓 Computer Science Student | 📊 Aspiring Data A
 ## 🚀 Projects
 
 🔹 Machine Learning Driven Brand Vendor Optimization  
-Built an end-to-end ML solution to evaluate vendor performance and improve decision support.
+Developed an end-to-end machine learning solution to analyze vendor performance and support data-driven business decisions.
 
 🔹 Streamlit Analytics Dashboard  
-Developed an interactive dashboard to visualize KPIs, trends and insights.
+Built an interactive analytics dashboard to monitor KPIs and visualize trends from structured datasets.
 
 🔹 Exploratory Data Analysis  
-Performed data cleaning, preprocessing and visualization using Python libraries.
+Performed data preprocessing, missing value treatment and visual analysis to uncover meaningful insights.
 
 🔹 SQL Data Analysis  
-Created analytical queries to generate business insights and reporting summaries.
+Designed analytical SQL queries to extract insights, perform aggregations and improve reporting efficiency.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-dudhani-967674353) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashdudhani1@gmail.com) 
@@ -24,5 +24,3 @@ Created analytical queries to generate business insights and reporting summaries
 ![](https://github-readme-stats.vercel.app/api?username=helloworld880&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=helloworld880&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=helloworld880&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
