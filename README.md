@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 Hi 👋 I'm Yash Dudhani<br>🎓 Computer Science Student | 📊 Aspiring Data Analyst<br> 
+
 Passionate about transforming raw data into actionable insights, I have hands-on experience in data preprocessing, exploratory data analysis, visualization and machine learning model development for real-world business problems.
 
 ## 🚀 Projects
