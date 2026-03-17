@@ -1,6 +1,19 @@
 # 💫 About Me:
 Hi 👋 I'm Yash Dudhani<br>🎓 Computer Science Student | 📊 Aspiring Data Analyst<br>Passionate about transforming raw data into actionable insights, I have hands-on experience in data preprocessing, exploratory data analysis, visualization and machine learning model development for real-world business problems.
 
+## 🚀 Projects
+
+🔹 Machine Learning Driven Brand Vendor Optimization  
+Built an end-to-end ML solution to evaluate vendor performance and improve decision support.
+
+🔹 Streamlit Analytics Dashboard  
+Developed an interactive dashboard to visualize KPIs, trends and insights.
+
+🔹 Exploratory Data Analysis  
+Performed data cleaning, preprocessing and visualization using Python libraries.
+
+🔹 SQL Data Analysis  
+Created analytical queries to generate business insights and reporting summaries.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-dudhani-967674353) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashdudhani1@gmail.com) 
